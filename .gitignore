@@ -21,6 +21,7 @@
 *.cfg
 !setup.cfg
 !cfg/yolov3*.cfg
+!clothes_detector
 
 storage.googleapis.com
 runs/*
